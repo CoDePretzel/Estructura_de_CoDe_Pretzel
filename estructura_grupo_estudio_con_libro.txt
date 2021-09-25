@@ -1,0 +1,12 @@
+# Grupos de Estudio con Libro
+
+Se toma de referencia un libro.
+La idea es que sea la totalidad del libro.
+
+De 1 a 3 semanas por capítulo
+
+El capítulo es necesario leerlo o practicarlo antes de cada sesión.
+
+Duración de cada sesión: 1 hora
+
+Duración total: 3 meses
