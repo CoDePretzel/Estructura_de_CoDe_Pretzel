@@ -22,8 +22,6 @@ Durante la semana, se escucha ese podcast.
 En la sesión de la hora de inglés, se comentará todo en inglés, valga la redundancia, lo que se entendió del mismo.
 La dinámica será como un conversatorio.
 
-### Conversatorio de un video en inglés
-
 
 ### Presentar en inglés entre la comunidad actual (de habla hispana)
 ### Presentar un tema en inglés a compañeros de habla inglesa
