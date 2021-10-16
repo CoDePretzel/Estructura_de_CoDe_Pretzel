@@ -1,4 +1,5 @@
-![CoDe Pretzel Logo](/icons/logo_xsm.png)# Estructura de actvidades en la comunidad de sistemas embebidos CoDe Pretzel
+![CoDe Pretzel Logo](/icons/logo_xsm.png)
+# Estructura de actvidades en la comunidad de sistemas embebidos CoDe Pretzel
 ### Vigentes desde Septiembre 2021
 
 ## Actividades
