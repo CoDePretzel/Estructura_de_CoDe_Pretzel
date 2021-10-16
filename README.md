@@ -14,11 +14,11 @@ Las actividades disponibles en la comunidad hasta el momento son:
 * La hora de inglés
 * Pláticas en vivo
 	* [Ponente](platicas_con_ponente.md)
-	* Tipo tutorial
-	* Conversatorio
+	* [Tipo tutorial](platicas_tipo_tutorial.md)
+	* [Conversatorio](platicas_tipo_conversatorio.md)
 * Grupos de estudio
-	* Con Proyecto
-	* Con Libro
+	* [Con Proyecto](grupo_estudio_con_proyecto.md)
+	* [Con Libro](grupo_estudio_con_libro.md)
 
 ## Plataformas digitales
 
