@@ -1,9 +1,9 @@
 # Grupos de Estudio con Libro
 
 ## Descripción
+
 Se toma un proyecto que solucione una problemática como referencia.
 Ese proyecto se desgloza en distintos componentes que puedan usar elementos de la infraestructura de software.
-
 
 Por ejemplo
 > Osciloscpio con un STM32
@@ -21,19 +21,25 @@ Por ejemplo
 > Configuraci[on de Platformio para usar el micro
 > Estándar de código BARR C2018
 
+El proyecto se desgloza para que dure de entre 1 a 3 meses en desarrollarse.
+Las sesiones son 1 vez por semana.
+
 Estos elementos se definen cuando se elige el proyecto que se va a trabajar
 
 ## Proyecto final
+
 Se define como el entregable que permita tener el módulo.
 Principalmente se va a ver reflejado en código y en prototipo.
 Ya sea de la infraestructura de desarrollo o del módulo en particular
 
 ## Duración
-3 meses
 
-## Duración de la sesión
-1 hora
+Sesiones de 1 hora
 
-## Comentarios 
+## Cantidad de Sesiones
+
+De 4 a 12
+
+## Comentarios
 La idea de la sesión es aclarar dudas durante el desarrollo colaborativo del módulo
 Es necesario trabajar en el módulo antes de la sesión
