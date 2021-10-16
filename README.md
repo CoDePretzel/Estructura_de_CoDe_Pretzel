@@ -13,7 +13,7 @@ Son los **Sábados** a las **12:30 PM** hora Tijuana México (PST/PDT)
 Las actividades disponibles en la comunidad hasta el momento son:
 * La hora de inglés
 * Pláticas en vivo
-	* Ponente
+	* [Ponente](platicas_con_ponente.md)
 	* Tipo tutorial
 	* Conversatorio
 * Grupos de estudio
