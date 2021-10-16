@@ -67,7 +67,7 @@ Los beneficios que encontramos en ultimadamente construir dicha infraestructura 
 
 ## Administración
 
-* [Leonides](https://discord.gg/uCZVfvHW5w)
-* [Karosuo](https://discord.gg/uCZVfvHW5w)
+* [Leonides](https://www.linkedin.com/in/hermann-leonides-zu%C3%B1iga-cruz-83a4801a1/)
+* [Karosuo](https://www.linkedin.com/in/rafaelkarosuo/)
 * [Cruz](https://www.linkedin.com/in/claudio-guadalupe-cruz-mendoza-35717a211/)
-* [Emmanuel](https://discord.gg/uCZVfvHW5w)
+* [Emmanuel](https://www.linkedin.com/in/emmnee/)
