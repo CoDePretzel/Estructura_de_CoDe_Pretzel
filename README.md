@@ -12,7 +12,7 @@ Son los **Sábados** a las **12:30 PM** hora Tijuana México (PST/PDT)
 >Las ocasiones donde no haya evento programado, este horario se podrá usar para juntas de coordinación y planeación de la comunidad o para juntas de sincronización en grupos de estudio con proyecto.
 
 Las actividades disponibles en la comunidad hasta el momento son:
-* (La hora de inglés)[la_hora_de_ing.md]
+* [La hora de inglés](la_hora_de_ing.md)
 * Pláticas en vivo
 	* [Ponente](platicas_con_ponente.md)
 	* [Tipo tutorial](platicas_tipo_tutorial.md)
