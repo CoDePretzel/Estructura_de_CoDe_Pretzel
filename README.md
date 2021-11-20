@@ -45,13 +45,41 @@ Así como tener una página web donde se pueda tener una referencia de qué es c
 Proporcionar un lugar donde crear sistemas embebidos, aprender, compartir entre todos, principiantes y avanzados y en el camino, mostrar el talento latinoamericano.
 
 
-##  El sueño de CoDe Pretzel
+##  El sueño de CoDe Pretzel (Infraestructura de desarrollo de software embebido)
 Es construir una infraestructura que nos permita desarrollar software embebido de calidad, con facilidad de replicación, modularidad y un protocolo de desarrollo.
 Los siguientes elementos definen dicha infraestructura.
 
 ### Proceso de desarrollo
+#### Desarrollo de software colaborativo
+- Colaboración en github (pull requests y branches para cada funcionalidad)
+- Code reviews para aprobar los pull requests
+- Merge conflicts
+#### Aseguramiento de la calidad
+- Análisis estático
+- Enforzamiento del estándar BarrC-2018
+- Pruebas unitarias
+#### Desarrollo modular
+- Desarrollo orientado por pruebas para embedded
+#### Automatización del proceso de desarrollo
+- Automatización de pruebas y compilación en jenkins
+- Deploy conectado a Jenkins con Artifactory
+
 ### Técnicas base de embedded systems
-### Periféricos base de embedde
+#### Desarrollo de bootloaders
+- UART
+- SPI
+#### Uso de filtros digitales
+#### Uso de QFormat (Número fraccionario representado en un número entero)
+#### Abstracción de hardware (APIs y HALs)
+#### Machine Learning en Embedded (Edge devices)
+
+### Periféricos base de embedded
+- PWM
+- I2C
+- SPI
+- ADC
+- QEI
+
 
 Sin embargo, estamos conscientes de que es una cantidad de trabajo enorme, sobre todo si pensamos que solo podremos desarrollar proyectos hasta tener esta infraestructura lista.
 Por lo que hemos pensado en ir implementando diferentes elementos de la misma a través de pequeños proyectos que a su vez también nos permitan practicar y aprender.
