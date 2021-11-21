@@ -46,10 +46,11 @@ Proporcionar un lugar donde crear sistemas embebidos, aprender, compartir entre 
 
 
 ##  El sueño de CoDe Pretzel (Infraestructura de desarrollo de software embebido)
-Es construir una infraestructura que nos permita desarrollar software embebido de calidad, con facilidad de replicación, modularidad y un protocolo de desarrollo.
-Los siguientes elementos definen dicha infraestructura.
+Es construir una infraestructura de herramientas, técnicas y configuraciones que nos permita desarrollar software embebido de calidad, con facilidad de replicación, modularidad y con un proceso de desarrollo establecido.
 
-### Proceso de desarrollo
+Los siguientes elementos definen la propuesta de dicha infraestructura, sin embargo, hay que tener en cuenta que estos pueden cambiar con el tiempo, dependiendo de las necesidades y capacidades del equipo.
+
+### Técnicas, herramientas y configuraciones para el Proceso de desarrollo
 #### Desarrollo de software colaborativo
 - Colaboración en github (pull requests y branches para cada funcionalidad)
 - Code reviews para aprobar los pull requests
@@ -59,25 +60,28 @@ Los siguientes elementos definen dicha infraestructura.
 - Enforzamiento del estándar BarrC-2018
 - Pruebas unitarias
 #### Desarrollo modular
-- Desarrollo orientado por pruebas para embedded
+- Desarrollo impulsado por pruebas (para embedded)
 #### Automatización del proceso de desarrollo
 - Automatización de pruebas y compilación en jenkins
 - Deploy conectado a Jenkins con Artifactory
 
 ### Técnicas base de embedded systems
-#### Desarrollo de bootloaders
-- UART
-- SPI
-#### Uso de filtros digitales
-#### Uso de QFormat (Número fraccionario representado en un número entero)
-#### Abstracción de hardware (APIs y HALs)
-#### Machine Learning en Embedded (Edge devices)
+- Desarrollo de bootloaders (UART o SPI)
+- Uso de filtros digitales (algún otro que no sea promedio)
+- Uso de Formato Q (Q15 por ejemplo) (Número fraccionario representado en un número entero)
+- Abstracción de hardware multicapas (APIs y HALs)
+- Machine Learning en Embedded (Edge devices, probablemente con TinyML/TFLight)
+- Configuración y uso de Watchdog timers
+- Implementación de máquinas de estados
+- Manejo de información por interrupciones sin variables globales (y posteriormente interrupciones anidadas)
+- Uso de JTAG para acceso a opciones avanzadas de depuración
+- Implementación básica de modos de bajo consumo (sleep mode)
 
-### Periféricos base de embedded
+### Uso de algunos de los periféricos más recurrentes en embedded
+- ADC
 - PWM
 - I2C
 - SPI
-- ADC
 - QEI
 
 
