@@ -23,9 +23,13 @@ Las actividades disponibles en la comunidad hasta el momento son:
 
 ## Nuestras redes
 
-Nuestras plataformas principales son [Discord](https://discord.gg/uCZVfvHW5w) y próximamente Reddit.
+Nuestras plataformas principales son [Discord](https://discord.gg/uCZVfvHW5w) y [Reddit](https://www.reddit.com/r/codepretzel/)(aunque aquí apenas empezamos).
+
+Todos los proyectos estarán en nuestro [Github](https://github.com/CoDePretzel)
 
 También tenemos:
+* [Twitter](https://twitter.com/PretzelCode)
+* [Instagram](https://www.instagram.com/codepretzel/)
 * [Página de facebook](https://www.facebook.com/CoDePretzel/)
 * [Grupo de facebook](https://www.facebook.com/groups/425161431009869)
 * [Youtube](https://www.youtube.com/channel/UC0TMAn1gR83mykrSQmnoAAQ/featured)
@@ -34,10 +38,7 @@ También tenemos:
 * Directorio en [Comunidades Atlas](https://comunidades.lat/code-pretzel/)
 
 Estamos trabajando en tener cuentas en:
-* Instagram
-* Twitter
-* Notion
-* Github
+* Notion (Nuestra base de conocimiento estará ahí)
 
 Así como tener una página web donde se pueda tener una referencia de qué es code pretzel y un poco de nuestra historia.
 
