@@ -11,7 +11,6 @@ Son los **Sábados** a las **12:30 PM** hora Tijuana México (PST/PDT)
 
 >Las ocasiones donde no haya evento programado, este horario se podrá usar para juntas de coordinación y planeación de la comunidad o para juntas de sincronización en grupos de estudio con proyecto.
 
-(Los readme de las actividades son un trabajo continuo, si no son claras, tienen información incorrecta o necesitan modificaciones, pueden pedir un pull request o mandar mensaje a los admins en Discord)
 Las actividades disponibles en la comunidad hasta el momento son:
 * [La hora de inglés](la_hora_de_ing.md)
 * Pláticas en vivo
@@ -21,6 +20,11 @@ Las actividades disponibles en la comunidad hasta el momento son:
 * Grupos de estudio
 	* [Con Proyecto](grupo_estudio_con_proyecto.md)
 	* [Con Libro](grupo_estudio_con_libro.md)
+
+
+**Nota:**
+> Los readme arriba mencionados de las actividades, requieren un trabajo y actualización continuas, si no son claras, tienen información incorrecta o necesitan modificaciones, pueden pedir un pull request o mandar mensaje a los admins en Discord
+
 
 ## Nuestras redes
 
