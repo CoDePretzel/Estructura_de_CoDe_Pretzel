@@ -2,8 +2,11 @@
 
 ## Descripción
 Lugar para practicar inglés técnico particularmente, en el área de software embebido, siempre que sea posible.
+Compañeros de habla inglesa pueden unirse a este tipo de pláticas a modo de socialización o de comunidad, así como para compartir escucha de diferentes acentos o recomendaciones desde su perspectiva en la pronunciación.
+La idea de la sesión es practicar inglés, así que se procurará hablar todo el tiempo en este idioma.
 
 La práctica se puede hacer de las siguientes maneras:
+
 ### Práctica de duolingo
 Dos lecciones en 20 minutos, si salen dudas, anotarlas y aclararlas al final del segmento.
 Segmento de 10 minutos de aclarar dudas de las prácticas.
@@ -22,46 +25,27 @@ Durante la semana, se escucha ese podcast.
 En la sesión de la hora de inglés, se comentará todo en inglés, valga la redundancia, lo que se entendió del mismo.
 La dinámica será como un conversatorio.
 
+### Presentar un tema en inglés
 
-### Presentar en inglés entre la comunidad actual (de habla hispana)
-### Presentar un tema en inglés a compañeros de habla inglesa
-### Platicar de un tema en particular en inglés
+Se toma un tema de interés, para la comunidad y se presenta con las estructuras de las pláticas, puede ser tutorial, con ponente o como tipo conversatorio (u otro 
+que acordemos previamente, debido a que será en inglés, las reglas y la estructura pueden ser mucho menos cuadradas) , por ejemplo "¿qué son los sistemas embebidos?" (de tipo ponente) o "Usar un LED como push button con AVR ATmega2560" (de tipo tutorial).
+Hay que tener en cuenta que la idea es, presentar el tema en inglés, así que los demos tendrán menos prioridad.
 
-Se toma un proyecto que solucione una problemática como referencia.
-Ese proyecto se desgloza en distintos componentes que puedan usar elementos de la infraestructura de software.
+### Hacer stream de una plática en inglés del rubro
 
-
-Por ejemplo
-> Osciloscpio con un STM32
-> Se desgloza en los siguientes módulos:
-> usar ADC para leer voltajes dentro del rango del MCU
-> usar ADC para leer voltajes *fuera* del rango del MCU
-> usar UART para comunicar la información a la PC
-> usar un graficador en la PC (puede ser python con matplotlib), para mostrar los datos
-
-Cada uno de esos módulos sería un grupo de estudio.
-
-Y cada módulo usará elementos del flujo de desarrollo que se está construyendo.
-Por ejemplo
-> Github colaborativo
-> Configuraci[on de Platformio para usar el micro
-> Estándar de código BARR C2018
-
-Estos elementos se definen cuando se elige el proyecto que se va a trabajar
+Se tiene una presentación, puede ser una conferencia de la industria, en inglés y se va a hacer stream de la misma durante la sesión, para que todos los que estén conectados en el canal, la puedan ver y escuchar.
+Al final de la misma se comentará qué se entendió, cuáles son las dudas específicas o si hay dudas del significado en inglés de ciertos conceptos.
 
 ## Proyecto final
-Se define como el entregable que permita tener el módulo.
-Principalmente se va a ver reflejado en código y en prototipo.
-Ya sea de la infraestructura de desarrollo o del módulo en particular
+No Aplica
 
 ## Duración
-3 meses
+1 o 2 sesiones, dependiendo si se requiere escuchar o ver un material en inglés durante la semana o si es necesario dar continuidad a una sesión de streaming de conferencia.
 
 ## Duración de la sesión
-1 hora
+1 a 2 hora en equipo, durante la sesión
+(dependiendo) 1 hora en casa, si necesitamos escuchar o ver algún material
 
 ## Comentarios 
-La idea de la sesión es aclarar dudas durante el desarrollo colaborativo del módulo
-Es necesario trabajar en el módulo antes de la sesión
-
+No Aplica
 
