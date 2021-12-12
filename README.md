@@ -45,7 +45,10 @@ También tenemos:
 Estamos trabajando en tener cuentas en:
 * Notion (Nuestra base de conocimiento estará ahí)
 
-Así como tener una página web donde se pueda tener una referencia de qué es code pretzel y un poco de nuestra historia.
+Así como tener una página web (un landing page), sencilla, donde se pueda tener una referencia de qué es code pretzel y un poco de nuestra historia.
+Sin embargo, esta información ya está en formatos de video en nuestro canal de youtube.
+- [CoDe Pretzel en 60 segundos](https://www.youtube.com/watch?v=0o7-iu64ShY&t=1s)
+- [La historia de CoDe Pretzel](https://www.youtube.com/watch?v=yBSf19HaA8c&t=5s)
 
 ## Objetivo de CoDe Pretzel
 Proporcionar un lugar donde crear sistemas embebidos, aprender, compartir entre todos, principiantes y avanzados y en el camino, mostrar el talento latinoamericano.
