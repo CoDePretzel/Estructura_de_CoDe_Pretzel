@@ -7,7 +7,7 @@ A menos que se especifique lo contrario en el evento en particular que se esté 
 
 Se realizan en la sección de `eventos virtuales` en el canal `Sala de reuniones` de nuestro servidor de [Discord](https://discord.gg/uCZVfvHW5w)
 
-Son los **Sábados** a las **14:30** hora Tijuana México (PST/PDT)
+Son los **Sábados** a las **13:00** hora Tijuana México (PST/PDT)
 
 >Las ocasiones donde no haya evento programado, este horario se podrá usar para juntas de coordinación y planeación de la comunidad o para juntas de sincronización en grupos de estudio con proyecto.
 
